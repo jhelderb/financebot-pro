@@ -1,5 +1,0 @@
-✅ Key encontrada: gsk_0JJS...D7B9
-📡 Enviando mensagem de teste...
-✅ RESPOSTA: API Groq funcionando!
-
-🎉 Tudo certo! O chatbot está pronto para uso.
