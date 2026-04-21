@@ -1,0 +1,5 @@
+# FinanceBot Pro — Dependências (Groq Edition)
+groq>=0.11.0          # SDK oficial Groq — gratuito, sem restrição geográfica
+streamlit>=1.40.0     # Interface web
+python-dotenv>=1.0.0  # Variáveis de ambiente (.env)
+rich>=13.0.0          # Interface CLI colorida
